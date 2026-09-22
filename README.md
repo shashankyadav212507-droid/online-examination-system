@@ -59,7 +59,7 @@ http://localhost/online_exam/
 
 ## Project Information
 
-**Project:** Online Examination System
-**Course:** Bachelor of Computer Applications (BCA)
-**Project Type:** Minor Project
+**Project:** Online Examination System  
+**Course:** Bachelor of Computer Applications (BCA)  
+**Project Type:** Minor Project  
 **Domain:** Web Development
