@@ -49,8 +49,8 @@ C:\xampp\htdocs\
 ```
 
 3. Start **Apache** and **MySQL** from XAMPP Control Panel.
-4. Create the project database using **phpMyAdmin**.
-5. Import the provided `.sql` database file.
+4. Open phpMyAdmin and create a database named `online_exam`.
+5. Import `database/online_exam.sql` into the `online_exam` database.
 6. Open the project in your browser:
 
 ```text
